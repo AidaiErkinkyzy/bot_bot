@@ -2,7 +2,6 @@ from config import TOKEN
 import asyncio
 from aiogram import Bot, Dispatcher
 from handlers.commands import router
-
 import logging
 import sys
 
